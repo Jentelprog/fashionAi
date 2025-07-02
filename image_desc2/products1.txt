@@ -1,0 +1,52 @@
+id1 : BLOUSE_JAZEORA.jpg : the clothing item is a white blouse with ruffled sleeves and a high neckline. She has paired it with white pants. Her hair is styled in loose waves, and she appears to be sitting on a chair with a woven design.
+id2 : BLOUSE_JELS.jpg : the clothing item is a white blouse with long sleeves and a high neckline. The fabric appears to be sheer, giving it a delicate and airy look. The style of the blouse suggests a formal or elegant occasion.
+id3 : BLOUSE_JESSIA.jpg : the clothing item is a blue blouse and white pants.
+id4 : BLOUSE_JINAE.jpg : the clothing item is a white blouse with long sleeves and a high neckline. The blouse has a button-up front and appears to be made of a lightweight fabric, possibly cotton or linen. She is also wearing brown trousers that are cropped at the ankle. The trousers have a visible waistband and appear to be made from a heavy fabric, such as denim or corduroy. The woman's hair is styled in loose waves, and she has a neutral makeup look with subtle eye makeup and lipstick. She is seated on a chair that has a woven seat and backrest, suggesting a casual or bohemian style.
+id5 : BLOUSE_JIOVANY.jpg : the clothing item is a white blouse with long sleeves and a high neckline. She has brown pants on, and her footwear consists of white strappy sandals. Her hair is styled down, and she appears to be sitting on a chair with a woven seat. The background is black, which contrasts with the woman's outfit.
+id6 : BLOUSE_JIRENA.jpg : the clothing item is a long-sleeved dress with a floral pattern featuring pink, blue, and orange colors. The dress has a V-neckline and appears to be made of a lightweight fabric. The style of the dress suggests a casual or semi-formal occasion.
+id7 : BLOUSE_JOSALYA.jpg : The clothing item is a long-sleeved shirt with a V-neck collar. It appears to be a light blue color, possibly made of a soft fabric like cotton or linen. The style of the shirt suggests a casual or semi-formal dress code.
+id8 : BLOUSE_JUNARA.jpg : The clothing item is a yellow shirt with long sleeves and a collar. It appears to be a casual style, possibly made from a cotton fabric.
+id9 : BLOUSE_JYNESIA.jpg : the clothing item is a white blouse with long sleeves and a high neckline. It appears to be a casual style, possibly made of a lightweight fabric.
+id10 : CHEMISE_JACOTTE.jpg : The clothing item is a white shirt with a collar and buttons down the front. It appears to be a casual style, possibly made of a lightweight fabric such as cotton or linen.
+id11 : CHEMISE_JOLAN.jpg : the clothing item is a white dress with long sleeves and a high neckline. The dress has a flared silhouette, giving it a casual yet elegant style. The fabric appears to be a lightweight material, possibly cotton or linen. The woman's hair is dark and styled in loose waves that fall around her shoulders. She is seated on a chair with a woven seat and backrest, which has a natural wood finish.
+id12 : CHEMISE_JONET.jpg : The clothing item is a blue and white floral shirt with long sleeves. It appears to be a casual style, possibly for a cooler climate given its long sleeves.
+id13 : CHEMISE_JOSINA.jpg : the clothing item is a white blouse with long sleeves and a high collar. The fabric appears to be a lightweight material, possibly cotton or linen. The style of the blouse is formal, with a classic design that could be considered both casual and elegant.
+id14 : DEBARDEUR_JAILA.jpg : the clothing item is a sleeveless top and dark blue pants.
+id15 : DEBARDEUR_JARWIN.jpg : the clothing item is a yellow sleeveless top and white pants.
+id16 : DEBARDEUR_JOBI.jpg : the clothing item is a white sleeveless top and white pants with a high waist. She has strappy heels on her feet. Her hair is dark, and she appears to be standing against a black background.
+id17 : PANTALON_JALIORA.jpg : the clothing item is a white t-shirt and beige trousers. Her style appears to be casual, with no visible accessories or jewelry.
+id18 : PANTALON_JAVINA.jpg : the clothing item is a pink top and blue pants with a floral pattern. Her style appears to be casual, as suggested by her choice of clothing.
+id19 : PANTALON_JEZAN.jpg : the clothing item is a white blouse and pink pants.
+id20 : PANTALON_JEZEKAEL.jpg : The clothing item is a white long-sleeved shirt with a V-neck. It appears to be a casual style, possibly made of a lightweight fabric like cotton or linen.
+id21 : PANTALON_JOLYSANNE.jpg : the clothing item is a white blouse with long sleeves and brown trousers. Her shoes are white, and she has a strap across her shoulder.
+id22 : PANTALON_JUBIEL.jpg : the clothing item is a beige jumpsuit with a white top and matching pants. She has a straw-like purse over her shoulder. Her hair is dark, and she appears to have long hair.
+id23 : PANTALON_JUBRET.jpg : The clothing item is a white blouse with long sleeves and a high neckline. It appears to be a casual style, possibly made of a lightweight fabric like cotton or linen.
+id24 : PANTALON_JUVENT.jpg : The clothing item is a white shirt with short sleeves and a round neckline. It appears to be a casual style, possibly made of a lightweight fabric like cotton or linen.
+id25 : ROBE_JADRANKA.jpg : the clothing item is a white sleeveless dress with buttons down the front. She has a large, patterned bag over her shoulder. Her hair is dark and she appears to be standing against a black background.
+id26 : ROBE_JAID.jpg : the clothing item is a blue dress with white embroidery on the sleeves and shoulders. She has her legs crossed, and she is sitting on a chair with a woven seat. Her hair is dark, and she appears to be looking off to the side.
+id27 : ROBE_JAMINE.jpg : the clothing item is a red dress.
+id28 : ROBE_JANK.jpg : the clothing item is a blue and white striped dress with a white top underneath. She has a red purse on her shoulder. Her hair is dark, and she is looking to the side.
+id29 : ROBE_JASNA.jpg : the clothing item is a long-sleeved blue dress with white floral embroidery on it. She is carrying a large woven straw bag. To her right, there is a modern chair with a metal frame and a wicker seat.
+id30 : ROBE_JAYDO.jpg : the clothing item is a dark blue dress with short sleeves and a V-neckline. She has on white sandals. There is no visible chair in the image.
+id31 : ROBE_JAZIELA.jpg : the clothing item is a red and white striped dress.
+id32 : ROBE_JENS.jpg : the clothing item is a pink dress.
+id33 : ROBE_JIANY.jpg : the clothing item is a long-sleeved brown dress with a high collar and buttons down the front. It appears to be a casual style, possibly made of a lightweight fabric.
+id34 : ROBE_JOAKIM.jpg : the clothing item is a white dress with short sleeves and a V-neckline. The dress has a cinched waist, creating a flared silhouette. She is also wearing strappy sandals that match her dress. Her hair is styled in loose waves, and she appears to be walking or standing with one hand slightly raised.
+id35 : ROBE_JONIEL.jpg : the clothing item is a blue and white striped dress. She has a light-colored purse with her. There is no other clothing visible in the image.
+id36 : ROBE_JORANE.jpg : the clothing item is a red dress with long sleeves and a V-neckline. It appears to be a formal or semi-formal style, possibly for an evening event. The fabric looks smooth and shiny, suggesting it might be made of silk or a similar material.
+id37 : ROBE_JOSANE.jpg : the clothing item is a green dress with short sleeves and a V-neckline. It appears to be a casual, loose-fitting style.
+id38 : ROBE_JOSIAN.jpg : the clothing item is a blue dress with short sleeves and a V-neckline. It appears to be a casual style, possibly made of a lightweight fabric.
+id39 : ROBE_JOSUH.jpg : the clothing item is a blue dress with short sleeves and a high neckline. It has a button-up front and appears to be made of a lightweight fabric, possibly cotton. The style of the dress suggests a casual or semi-formal look.
+id40 : ROBE_JOUIN.jpg : the clothing item is a red dress with short sleeves and a round neckline. The fabric appears to be a smooth, possibly silky material. The style of the dress is casual yet elegant, fitting well around her waist and hips.
+id41 : ROBE_JUCONDE.jpg : the clothing item is a long-sleeved dress with a floral pattern. The dress appears to be made from a lightweight fabric, possibly cotton or linen. It has a V-neck and long sleeves. The style of the dress suggests a casual or semi-formal occasion.
+id42 : ROBE_JULIETTA.jpg : the clothing item is a blue dress with short sleeves and a high neckline. It appears to be a casual style, possibly made of a lightweight fabric.
+id43 : ROBE_JUNA.jpg : the clothing item is a bright yellow dress with a V-neck and long sleeves. The dress has a flared skirt that falls to her ankles. She is also wearing white shoes. To the right of the woman, there is a chair with a woven seat and backrest.
+id44 : ROBE_JXY.jpg : the clothing item is a yellow dress with ruffled sleeves and a high neckline. The dress appears to be made from a lightweight fabric, possibly cotton or linen, and has a casual style.
+id45 : TEE-SHIRT_JENITON.jpg : the clothing item is a white sleeveless top with a scoop neckline and a short sleeve length. The fabric appears to be a lightweight, possibly cotton or linen blend. The style of the top is casual and could be considered sporty due to its simplicity and lack of embellishment.
+id46 : TEE_SHIRT_JACOMO.jpg : the clothing item is a white sleeveless top with a scoop neckline and a short sleeve length with floral design. The fabric appears to be a lightweight, possibly cotton or linen blend. The style of the top is casual and could be considered sporty
+id47 : TEE_SHIRT_JAUFRI.jpg : the clothing item is a yellow sleeveless top.
+id48 : TEE_SHIRT_JERICHO.jpg : the clothing item is a black and white striped top with short sleeves, paired with white pants. Her shoes are not visible in this image.
+id49 : TEE_SHIRT_JOVITTA.jpg : The clothing item is a white t-shirt with short sleeves and a round neckline. It has a casual style, suitable for various occasions.
+id50 : TEE_SHIRT_JUDAS.jpg : the clothing item is a white t-shirt and white pants.
+id51 : TEE_SHIRT_JUNIAR.jpg : The clothing item is a striped shirt with short sleeves. It appears to be a casual style top.
+id52 : VESTE_JELYA.jpg : the clothing item is a white blouse with lace detailing and a matching skirt.
